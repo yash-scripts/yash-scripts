@@ -191,7 +191,6 @@ const yash = {
 
 <p>Always open to collaborating on interesting projects, discussing tech, or just saying hi! 👋</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-yash--scripts-%2364ffda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-scripts)
 [![GitHub](https://img.shields.io/badge/GitHub-yash--scripts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-scripts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yash-chaudhari-ab6751316?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudhariyash355@gmail.com)
