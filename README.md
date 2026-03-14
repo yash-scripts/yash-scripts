@@ -176,11 +176,9 @@ const yash = {
 ## 💬 A Thought to Live By
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=64FFDA&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CThe+question+of+whether+a+computer+can+think+is+no+more+interesting;than+the+question+of+whether+a+submarine+can+swim.%E2%80%9D+%E2%80%94+Edsger+W.+Dijkstra" alt="Quote" />
-</a>
-
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=64FFDA&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CThe+question+of+whether+a+computer+can+think+is+no+more+interesting;than+the+question+of+whether+a+submarine+can+swim.%E2%80%9D+%E2%80%94+Edsger+W.+Dijkstra" alt="Quote" />
+ 
 </div>
 
 ---
