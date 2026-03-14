@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+DY+Patil+International+University+%F0%9F%8F%AB;Backend+Developer+in+the+Making+%E2%9A%99%EF%B8%8F;Building+OBSIDIAN+Event+%26+Task+Platform+%F0%9F%96%A4;Exploring+Networks%2C+OS+%26+Algorithms+%F0%9F%A7%A0;Making+things+that+work%2C+then+making+them+better+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+DYPIU+%F0%9F%8F%AB;Backend+Developer+in+the+Making+%E2%9A%99%EF%B8%8F;Building+OBSIDIAN+Event+%26+Task+Platform+%F0%9F%96%A4;Exploring+Networks%2C+OS+%26+Algorithms+%F0%9F%A7%A0;Making+things+that+work%2C+then+making+them+better+%F0%9F%94%A7" alt="Typing SVG" />
 </a>
 
 <br/><br/>
