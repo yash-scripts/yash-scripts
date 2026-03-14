@@ -56,14 +56,14 @@ const yash = {
 ### 💬 Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css&theme=dark" height="48"/>
 
 </div>
 
 ### ⚙️ Tools & Databases
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,sql,&theme=dark" height="48"/>
 
 </div>
 
