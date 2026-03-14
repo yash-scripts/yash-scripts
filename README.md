@@ -128,7 +128,7 @@ const yash = {
 │  ✦ Clean, minimal UI                                            │
 │                                                                  │
 │  Planned Stack ──────────────────────────────────────────────   │
-│  🐍 Python  •  🤗 HuggingFace / OpenAI  •  🌐 Flask / FastAPI  │
+│  🐍 Python  •   OpenAI  •  🌐 Flask / FastAPI  │
 │                                                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
