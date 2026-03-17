@@ -91,16 +91,16 @@ const yash = {
 ┌─────────────────────────────────────────────────────────────────┐
 │  OBSIDIAN                                   [ Live / WIP ]  │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  A full-featured event and task management platform              │
-│  built from scratch with a clean backend API.                    │
-│                                                                  │
-│  ✦ RESTful Backend API     ✦ Event Storage & Retrieval           │
-│  ✦ Task Management         ✦ Frontend Interface                  │
-│                                                                  │
+│                                                                 │
+│  A full-featured event and task management platform             │
+│  built from scratch with a clean backend API.                   │
+│                                                                 │
+│  ✦ RESTful Backend API     ✦ Event Storage & Retrieval         │
+│  ✦ Task Management         ✦ Frontend Interface                │
+│                                                                 │
 │  Stack ──────────────────────────────────────────────────────   │
-│  🐍 Python  •  🌐 HTML  •  ⚡ JavaScript  •  🗄️ MySQL          │
-│                                                                  │
+│  🐍 Python  •  🌐 HTML  •  ⚡ JavaScript  •  🗄️ MySQL         │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
