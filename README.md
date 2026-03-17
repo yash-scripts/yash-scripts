@@ -195,7 +195,7 @@ const yash = {
 
 <br/>
 
-**🎯 Open to:** Internships · Backend Projects · Hackathons · Open Source · Research
+**🎯 Open to:** Internships · Backend Projects · Hackathons · Open Source 
 
 </div>
 
