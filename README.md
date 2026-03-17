@@ -118,18 +118,18 @@ const yash = {
 ┌─────────────────────────────────────────────────────────────────┐
 │  🤖  AI DOCUMENT SUMMARIZER                     [ Planned ]    │
 ├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
+│                                                                 │
 │  A smart tool powered by AI to summarize documents              │
-│  and extract the most important insights instantly.              │
-│                                                                  │
+│  and extract the most important insights instantly.             │
+│                                                                 │
 │  ✦ Upload any document (PDF, DOCX, TXT)                         │
 │  ✦ Auto-generate concise summaries                              │
 │  ✦ Extract key points & action items                            │
 │  ✦ Clean, minimal UI                                            │
-│                                                                  │
+│                                                                 │
 │  Planned Stack ──────────────────────────────────────────────   │
 │  🐍 Python  •   OpenAI  •  🌐 Flask / FastAPI  │
-│                                                                  │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
