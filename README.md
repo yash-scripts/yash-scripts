@@ -211,6 +211,6 @@ const yash = {
 
 <br/><br/>
 
-<sub>⭐ If you like what you see, feel free to star a repo — it genuinely motivates me to keep building! 🙏</sub>
+<sub>⭐ If you like what you see, feel free to star the repository — it genuinely motivates me to keep building! 🙏</sub>
 
 </div>
