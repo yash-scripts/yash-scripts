@@ -86,7 +86,16 @@ const yash = {
 
 ### 🖤 OBSIDIAN — Event & Task Management Platform
 
-[![OBSIDIAN Repo](https://github-readme-stats.vercel.app/api/pin/?username=yash-scripts&repo=obsidian&theme=tokyonight&hide_border=true&title_color=a8d8f0&icon_color=a8d8f0)](https://github.com/yash-scripts)
+> A full-stack platform to manage events and tasks with a clean, dark UI — built for students and teams who mean business.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-%230d1b2a?style=flat-square&logo=python&logoColor=a8d8f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231b3a5c?style=flat-square&logo=javascript&logoColor=a8d8f0)
+![MySQL](https://img.shields.io/badge/MySQL-%232e6b9e?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%230d1b2a?style=flat-square&logo=html5&logoColor=a8d8f0)
+![CSS](https://img.shields.io/badge/CSS-%231b3a5c?style=flat-square&logo=css3&logoColor=a8d8f0)
+
+[![View Repo](https://img.shields.io/badge/GitHub-OBSIDIAN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-scripts/obsidian)
 
 ---
 
@@ -102,17 +111,17 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash-scripts&show_icons=true&theme=tokyonight&hide_border=true&title_color=a8d8f0&icon_color=a8d8f0&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yash-scripts&show_icons=true&theme=dark&hide_border=true&title_color=a8d8f0&icon_color=5ba3c9&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-scripts&layout=compact&theme=tokyonight&hide_border=true&title_color=a8d8f0&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-scripts&layout=compact&theme=dark&hide_border=true&title_color=a8d8f0&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yash-scripts&theme=tokyonight&hide_border=true&ring=a8d8f0&fire=5ba3c9&currStreakLabel=a8d8f0" width="68%"/>
+<img src="https://streak-stats.demolab.com?user=yash-scripts&theme=dark&hide_border=true&background=0d1b2a&ring=a8d8f0&fire=5ba3c9&currStreakLabel=a8d8f0&sideLabels=7aafc4&dates=7aafc4&currStreakNum=a8d8f0&sideNums=a8d8f0&stroke=1b3a5c" width="68%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-scripts&theme=tokyo-night&hide_border=true&area=true&area_color=2e6b9e&color=a8d8f0&line=a8d8f0&point=ffffff" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-scripts&theme=tokyo-night&hide_border=true&area=true&area_color=1b3a5c&color=a8d8f0&line=2e6b9e&point=a8d8f0&custom_title=Monthly+Contribution+Activity&radius=2" width="94%"/>
 
 </div>
 
@@ -136,7 +145,7 @@ const yash = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=A8D8F0&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CThe+question+of+whether+a+computer+can+think+is+no+more+interesting;than+the+question+of+whether+a+submarine+can+swim.%E2%80%9D+%E2%80%94+Edsger+W.+Dijkstra" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=A8D8F0&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%94+John+Johnson" alt="Quote" />
 
 </div>
 
