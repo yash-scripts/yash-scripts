@@ -16,7 +16,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=yash-scripts&label=Profile+Views&color=a8d8f0&style=flat-square)](https://github.com/yash-scripts)
 [![GitHub followers](https://img.shields.io/github/followers/yash-scripts?label=Followers&style=social)](https://github.com/yash-scripts)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-%23a8d8f0?style=flat-square&logo=statuspage&logoColor=black)
-![Focus](https://img.shields.io/badge/Focus-Backend%20%26%20Systems-%230d1b2a?style=flat-square&logo=serverfault&logoColor=a8d8f0)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20ML-%230d1b2a?style=flat-square&logo=serverfault&logoColor=a8d8f0)
 
 </div>
 
