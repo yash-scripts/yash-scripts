@@ -145,7 +145,7 @@ const yash = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=A8D8F0&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D+%E2%80%94+John+Johnson" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=99999&color=A8D8F0&center=true&vCenter=true&multiline=true&width=780&height=80&lines=%E2%80%9CThe+only+way+to+predict+the+future+is+to+create+it.%E2%80%9D" alt="Quote" />
 
 </div>
 
