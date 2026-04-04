@@ -64,7 +64,7 @@ const yash = {
 ### ⚙️ Tools & Databases
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb,&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,Antigravity,mysql,mongodb,&theme=dark" height="48"/>
 
 </div>
 
@@ -163,7 +163,7 @@ const yash = {
 
 <br/>
 
-**🎯 Open to:** Internships · Hackathons · Open Source · Frontend Projects
+**🎯 Open to:** Internships · Hackathons · Open Source · Frontend Projects 
 
 </div>
 
