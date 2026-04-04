@@ -64,7 +64,7 @@ const yash = {
 ### ⚙️ Tools & Databases
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Antigravity,mysql,mongodb,&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,mongodb&theme=dark" height="48"/>
 
 </div>
 
@@ -111,9 +111,9 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash-scripts&show_icons=true&theme=dark&hide_border=true&title_color=a8d8f0&icon_color=5ba3c9&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-scripts&theme=github_dark" height="170" alt="Yash's GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-scripts&layout=compact&theme=dark&hide_border=true&title_color=a8d8f0&text_color=7aafc4&bg_color=0d1b2a" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-scripts&theme=github_dark" height="170" alt="Top Languages"/>
 
 <br/>
 
@@ -173,9 +173,9 @@ const yash = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:1b3a5c,70:2e6b9e,100:0d1b2a&height=130&section=footer" width="100%"/>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+![Built With Love](https://img.shields.io/badge/Built%20With-%E2%9D%A4%EF%B8%8F%20Love-a8d8f0?style=for-the-badge&labelColor=0d1b2a)
 &nbsp;
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+![Powered By Coffee](https://img.shields.io/badge/Powered%20By-%E2%98%95%20Coffee-7aafc4?style=for-the-badge&labelColor=1b3a5c)
 
 <br/><br/>
 
