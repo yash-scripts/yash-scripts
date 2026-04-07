@@ -84,7 +84,7 @@ const yash = {
 
 <div align="center">
 
-### 🖤 OBSIDIAN — Event & Task Management Platform
+### 🖤 OBSIDIAN — Personal AI Assistant 
 
 > A full-stack platform to manage events and tasks with a clean, dark UI — built for students and teams who mean business.
 
