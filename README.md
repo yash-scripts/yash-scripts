@@ -1,4 +1,4 @@
-<div align="center">
+i<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,30:1b3a5c,70:2e6b9e,100:0d1b2a&height=230&section=header&text=Yash&fontSize=80&fontColor=a8d8f0&fontAlignY=42&desc=AI%20Enthusiast%20%7C%20CS%20Student%20%7C%20Silent%20Thinker&descAlignY=62&descSize=17&descColor=7aafc4&animation=fadeIn" width="100%"/>
 
@@ -57,7 +57,7 @@ const yash = {
 ### 💬 Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react.js&theme=dark" height="48"/>
 
 </div>
 
