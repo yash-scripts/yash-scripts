@@ -10,7 +10,7 @@ i<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A8D8F0&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%40+DYPIU+%F0%9F%8F%AB;AI+Engineer+in+the+Making+%E2%9A%99%EF%B8%8F;Building+OBSIDIAN-+Personal+AI+Assistant+%F0%9F%96%A4;Exploring+LLMs%2C+OS+%26+Algorithms;Making+things+that+work%2C+then+making+them+better+%F0%9F%94%A7" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yash-scripts&label=Profile+Views&color=a8d8f0&style=flat-square)](https://github.com/yash-scripts)
@@ -36,7 +36,7 @@ const yash = {
   currentlyLearning : [
     "🌐 Computer Networks — TCP/IP, DNS, HTTP,
     "🖥  Operating Systems — Processes, Memory, Scheduling",
-    "📊 Data Mining — Patterns, Clustering, Classification",
+    "📊 Data Mining — Patterns, Clustering, Classification,Regression",
     "🧠 Algorithms & Data Structures — Always",
   ],
 
