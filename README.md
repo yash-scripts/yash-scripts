@@ -42,6 +42,7 @@ const yash = {
 
   building    : {
     now  : "OBSIDIAN — Event & Task Management Platform ",
+           "Decision Memory AI"
     next : "AI Document Summarizer ",
   },
 
