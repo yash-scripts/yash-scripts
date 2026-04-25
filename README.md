@@ -28,7 +28,7 @@ i<div align="center">
 const yash = {
   name        : "Yash",
   university  : "DY Patil International University, Akurdi, Pune 🏫",
-  degree      : "B.Tech — Computer Science",
+  degree      : "B.Tech — Computer Science Engineering",
 
   interests   : ["Backend Development", "Systems Engineering",
                  "Computer Networks", "AI / ML Tooling"],
