@@ -26,7 +26,7 @@ i<div align="center">
 
 ```javascript
 const yash = {
-  name        : "Yash",
+  name        : "Yash Chaudhari",
   university  : "DY Patil International University, Akurdi, Pune 🏫",
   degree      : "B.Tech — Computer Science Engineering",
 
