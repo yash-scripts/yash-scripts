@@ -30,7 +30,7 @@ const yash = {
   university  : "DY Patil International University, Akurdi, Pune 🏫",
   degree      : "B.Tech — Computer Science Engineering",
 
-  interests   : ["Backend Development", "Systems Design",
+  interests   : [
                  "Computer Networks", "AI / ML Tooling"],
 
   currentlyLearning : [
