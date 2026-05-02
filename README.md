@@ -31,7 +31,7 @@ const yash = {
   degree      : "B.Tech — Computer Science Engineering",
 
   interests   : [
-                 "Computer Networks", "AI / ML Tooling"],
+                 "Computer Networks", "AI / ML Tooling","Full Stack projects"],
 
   currentlyLearning : [
     "🌐 Computer Networks — TCP/IP, DNS, HTTP,FTP,DHCP
