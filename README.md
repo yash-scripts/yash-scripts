@@ -37,7 +37,7 @@ const yash = {
     "🌐 Computer Networks — TCP/IP, DNS, HTTP,FTP,DHCP
     "🖥  Operating Systems — Processes, Memory, Scheduling",
     "📊 Data Mining — Patterns, Clustering, Classification,Regression",
-    "🧠 Algorithms & Data Structures — Always",
+    "🧠 Algorithms & Data Structures — Always Sharpening",
   ],
 
   building    : {
