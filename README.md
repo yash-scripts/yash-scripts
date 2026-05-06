@@ -100,7 +100,7 @@ const yash = {
 
 ---
 
-### 🤖 AI Document Summarizer — *Coming Soon*
+### 🤖 AI Document Summarizer - next 
 
 [![AI Summarizer](https://img.shields.io/badge/AI%20Document%20Summarizer-Coming%20Soon-%231b3a5c?style=for-the-badge&logo=openai&logoColor=a8d8f0)](https://github.com/yash-scripts)
 
