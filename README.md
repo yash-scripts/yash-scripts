@@ -34,7 +34,7 @@ const yash = {
                  "Computer Networks", "AI / ML Tooling","Full Stack projects"],
 
   currentlyLearning : [
-    "🌐 Computer Networks — TCP/IP, DNS, HTTP,FTP,DHCP
+    "🌐 Computer Networks —OSI, TCP/IP, DNS, HTTP,FTP,DHCP,
     "🖥  Operating Systems — Processes, Memory, Scheduling",
     "📊 Data Mining — Patterns, Clustering, Classification,Regression",
     "🧠 Algorithms & Data Structures — Always Sharpening",
