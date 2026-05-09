@@ -69,7 +69,7 @@ const yash = {
 
 </div>
 
-### 📖 Currently Exploring
+### 📖 Currently Exploring topics-
 <div align="center">
 
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-Learning-%231b3a5c?style=for-the-badge&logo=cisco&logoColor=a8d8f0)
