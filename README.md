@@ -28,7 +28,7 @@ i<div align="center">
 const yash = {
   name        : "Yash Vijay Chaudhari",
   university  : "DY Patil International University, Akurdi, Pune 🏫",
-  degree      : "B.Tech — Computer Science Engineering",
+  degree      : "B.Tech — Computer Science & Engineering",
 
   interests   : [
                  "Computer Networks", "AI / ML Tooling","Full Stack projects"],
