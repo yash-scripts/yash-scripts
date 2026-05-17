@@ -53,7 +53,7 @@ const yash = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack familiar 
 
 ### 💬 Languages
 <div align="center">
