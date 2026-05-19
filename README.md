@@ -36,7 +36,7 @@ const yash = {
   currentlyLearning : [
     "🌐 Computer Networks —OSI, TCP/IP, DNS, HTTP,FTP,DHCP,Subnetting
     "🖥  Operating Systems — Processes, Memory, Scheduling, disk scheduling",
-    "📊 Data Mining — Patterns, Clustering, Classification,Regression",
+    "📊 Data Mining — Patterns, Clustering, Classification,Regression, decision tree",
     "🧠 Algorithms & Data Structures — Always Sharpening",
   ],
 
