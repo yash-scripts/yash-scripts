@@ -134,7 +134,7 @@ const yash = {
 
 ![Computer Networks](https://img.shields.io/badge/%20Computer%20Networks-TCP%2FIP%20%7C%20DNS%20%7C%20HTTP%20%7C%20Sockets-%230d1b2a?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/%20Operating%20Systems-Processes%20%7C%20Memory%20%7C%20Scheduling-%231b3a5c?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/%20Algorithms%20%26%20DSA-Always%20Sharpening-%230d1b2a?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/%20Algorithms%20%26%20DSA%20Sharpening-%230d1b2a?style=for-the-badge)
 ![Data Mining](https://img.shields.io/badge/%20Data%20Mining-Patterns%20%7C%20Clustering%20%7C%20Classification-%231b3a5c?style=for-the-badge)
 ![Backend Dev](https://img.shields.io/badge/%20Fullstack%20Development-APIs%20%7C%20Databases%20%7C%20Systems-%230d1b2a?style=for-the-badge)
 
