@@ -41,7 +41,7 @@ const yash = {
   ],
 
   building    : {
-    now  : "OBSIDIAN — Event & Task Management Platform ",
+    now  : "OBSIDIAN —Personal AI Assistant with Event & Task Management Platform ",
            "Decision Memory AI- AI behavioual pattern"
     next : "AI Document Summarizer ",
   },
