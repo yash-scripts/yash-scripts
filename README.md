@@ -46,7 +46,7 @@ const yash = {
     next : "AI Document Summarizer ",
   },
 
-  goal        : "Become a strong software engineer who solves real problems",
+  goal        : "Become a strong software engineer who solves real worldproblems",
   funFact     : "I think about edge cases even when I'm not coding 😄",
 };
 ```
