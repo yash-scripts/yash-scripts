@@ -164,7 +164,7 @@ const yash = {
 
 <br/>
 
-**🎯 Open to:** Internships · Hackathons · Open Source Contribution · Frontend Projects · Design
+**🎯 Open to:** Internships · Hackathons · Open Source Contribution · Frontend Projects · Design . Data Analysis
 
 </div>
 
